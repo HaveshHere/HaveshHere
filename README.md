@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Havesh](www.linkedin.com/in/haveshravi), an Electronics Engineering student based in Malaysia.
+I'm [Havesh](www.linkedin.com/in/haveshravi), an Electronic Engineering student based in Malaysia.
 
 I design and love building things that make ideas come alive.
 
