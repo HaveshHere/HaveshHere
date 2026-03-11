@@ -9,4 +9,4 @@ So far, I've worked on a fun project, a Whack-A-Mole game on a DE1 - SoC board. 
 **Fun Facts:**
 - Big fan of Michael Jackson
 - Love Jujutsu Kaisen
-- Hobbies: gaming, gym, anime
+- Hobbies: gaming, anime
